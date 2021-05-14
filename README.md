@@ -1,6 +1,10 @@
 # About
 
 Usage of Geolocation API
+Check geolocation coordinates speed
+In this we get the velocity of the device in meters per second..
+			
+
 # Geolocation
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
